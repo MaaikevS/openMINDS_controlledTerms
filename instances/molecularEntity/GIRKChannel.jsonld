@@ -1,0 +1,16 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/GIRKChannel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "The GIRK channel belongs to a family of inwardly-rectifying potassium channels that are activated by pertusin toxin sensitive G-protein coupled receptors. GIRK potassium channels are primarily activated by the complex of GTP-binding protein beta subunits and GTP-binding protein gamma subunits.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0492871",
+  "knowledgeSpaceLink": null,
+  "name": "GIRK channel",
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0451133",
+  "synonym": [
+    "G Protein-Coupled Inwardly-Rectifying Potassium Channel"
+    ]
+}
