@@ -1,0 +1,18 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/oxytocin",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Oxytocin is a peptide hormone and neuropeptide normally produced in the hypothalamus and released by the posterior pituitary. It plays a role in social bonding, sexual reproduction, childbirth, and the period after childbirth.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108336",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:7872#oxytocin",
+  "name": "oxytocin",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_7872",
+  "synonym": [
+    "Oxt",
+    "OXT",
+    "OT"
+    ]
+}
